@@ -1,0 +1,13 @@
+0,Bipin Nayak,Bipin@123,student
+0,Deepak Singh,Deepak@123,admin
+0,deepak,robinsingh,student
+0,Neeraj Rai,Neeraj@123,student
+0,Abhinav Singh,Abhinav@123,student
+0,Aditya Kumar,Aditya@123,student
+0,Dilkhush,Dilkhush@123,student
+1,Bipin Nayak,Bipin@123,false
+2,Deepak Singh,Deepak@123,false
+3,Amit Singh,Amit@123,false
+4,Umar Tyagi,umar@123,false
+5,Ayush Ranjan,Ayush@123,false
+6,Amit Singh,amit123,false
