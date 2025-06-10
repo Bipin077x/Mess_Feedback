@@ -2,6 +2,13 @@
 
 MessFeedbackIO is a simple Java application for managing user feedback, ratings, and votes for a mess (cafeteria) system. It uses plain text files for data storage and provides basic user registration, login, and feedback management features.
 
+## Team Members
+
+- **Bipin Nayak** : 24SCSE1180206 (admin)
+- **Deepak Singh** : 24SCSE1180234
+- **MD Dilkhush** : 24SCSE1180481
+- **Neeraj Rai** : 24SCSE1180566
+
 ## Features
 
 - User registration and login
